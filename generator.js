@@ -4,8 +4,6 @@ let what = ['mi car', 'my shoe', 'my garden', 'my house'];
 let when = ['before the class','right in time','when I finished','during my lunch','while I was praying'];
 document.getElementById("excuse").innerHTML= getExcuse();
 
-
-
 function getExcuse(){
 
 
